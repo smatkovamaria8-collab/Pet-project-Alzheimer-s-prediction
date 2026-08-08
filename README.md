@@ -1,6 +1,6 @@
 # Alzheimer's Disease Diagnosis Prediction
 
-This project focuses on predicting the diagnosis of Alzheimer's disease using a machine learning pipeline built with Python and `scikit-learn`. The core model uses a Random Forest Classifier optimized through hyperparameter tuning.
+This project focuses on predicting the diagnosis of Alzheimer's disease using a machine learning pipeline built with Python and `scikit-learn`. The core model uses a Random Forest Classifier optimized through hyperparameter tuning (main.py).
 
 ## Project Workflow
 
